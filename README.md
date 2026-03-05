@@ -1,8 +1,5 @@
 # COVID-19 Dataset Analysis
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Data Source](https://img.shields.io/badge/Data-Johns%20Hopkins%20CSSE-blue)](https://github.com/CSSEGISandData/COVID-19)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Comprehensive Power BI implementation for global COVID-19 pandemic tracking and analysis**
 
